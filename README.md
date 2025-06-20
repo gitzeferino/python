@@ -1,4 +1,4 @@
-# Pandas Basics
+# Pandas Basics Atualizada
 
 Este repositório contém um exemplo básico de manipulação de dados utilizando a biblioteca `pandas` no Python, junto com operações matemáticas com `numpy` e visualização de dados com `matplotlib`.
 
